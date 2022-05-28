@@ -1,16 +1,20 @@
 # main links
 main:
-  - title: "resume"
-    url: "/about/resume/"
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title   : "blind sysadmin"
+    url     : "/about/blind-sysadmin/"
+  - title   : "resume"
+    url     : "/about/resume/"
+    # - title: "About"
+    #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    # - title: "Sample Posts"
+    #   url: /year-archive/
+    # - title: "Sample Collections"
+    #   url: /collection-archive/
+    # - title: "Sitemap"
+    #   url: /sitemap/
 
 about:
   - title   : "resume"
     url     : "/about/resume/"
+  - title   : "blind sysadmin"
+    url     : "/about/blind-sysadmin/"

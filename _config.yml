@@ -109,15 +109,18 @@ author:
   # email            : "blindsysadmin+github@mailfence.com"
 
   links:
-    - label:  "Email"
-      icon:   "fas fa-fw fa-envelope-square"
-      url:    "mailto:blindsysadmin+github@mailfence.com"
     - label:  "Website"
       icon:   "fas fa-fw fa-link"
       url:    "https://aces4all00.github.io"
     - label:  "GitHub"
       icon:   "fab fa-fw fa-github"
       url:    "https://github.com/aces4all00"
+    - label:  "Mastodon"
+      icon:   "fas fa-fw fa-link"
+      url:    "https://dragonscave.space/@BlindSysEng_Social"
+    - label:  "Lemmy"
+      icon:   "fas fa-fw fa-link"
+      url:    "https://rblind.com/u/NoConfigence2192"      
 
 defaults:
   # _posts

@@ -7,7 +7,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-# Highly Skilled IS&T Pro
+# Highly Skilled IS&T Pro #
 
 I love what I do for a living, and it shows in my work.  Where else would I be so challenged to learn, explore, and grow at almost every turn?  From storage to compute to communications I get to see, work with, and help manage the ever-evolving ways information systems and technologies are used. When there is a new tool to do what needs to be done, I get to learn something new.  If there is not a tool, I get to script one (PowerShell, Python, Perl, Bash).  If one cannot be scripted, I get to help create one (C#, F#).  It’s hard to get much better than this for me.
 
@@ -16,14 +16,14 @@ I love what I do for a living, and it shows in my work.  Where else would I be s
 I used to place a large list of all the specific technologies I know here (and still can, if needed) but it just fills too much space. Right now, my strongest skills are tied to:
 
 - Directory Services (Active Directory, Azure AD, and to a slightly lesser extent Open LDAP)
-- Configuration Management (SCCM/MECM, Intune, plus some Puppet and Ansible)
-- PowerShell
+- Configuration Management (SCCM/MECM, Intune, plus some Puppet, Ansible, and Salt Stack)
+- PowerShell, Python, C#, F#
 
-Of the 3, PowerShell is where I spend the most time by far.  I do most of my work in all areas using PowerShell. 
+Of these, PowerShell and Python are where I spend the most time by far.  I do most of my work in all areas using PowerShell and Python. 
 
-## Relevant Professional Experience
+## Relevant Professional Experience ##
 
-### Senior IT Systems Administrator
+### Senior IT Systems Administrator ###
 ```
 December 2015 – August 2021
 Regional Health System and Medical Center
@@ -68,7 +68,7 @@ With this regional healthcare provider spanning 3 hospitals as well as a multitu
 ```
 October 2004 – August 2005
 Corona, California
-National Health Incsurance, Healthcare Provider, and Medical Center System
+National Health Insurance, Healthcare Provider, and Medical Center System
 ```
 
 With this national Healthcare provider and Medical Center system I helped deploy, manage support and maintain end user workstations throught the organization. Some duties and accomplishments include:

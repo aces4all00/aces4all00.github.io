@@ -9,7 +9,7 @@ toc_icon: "cog"
 
 # Social Media
 
-Having grown fed up with how much of big tech social media (Meta, Twitter, Reddit to name a few) addresses accessibility for everyone and the blind and visually impaired in particular I have largely left them in favor of more open platforms like [Mastodon](<https://joinmastodon.org/servers>) and [Lemmy](<https://join-lemmy.org/instances>). Being open source, were features and  solutions do not already exist, anyone can contribute to creating them.
+Having grown frustrated with how much of big tech social media (Meta, Twitter, Reddit to name a few) addresses accessibility for everyone, the blind and visually impaired in particular, I have largely left them in favor of more open platforms like [Mastodon](<https://joinmastodon.org/servers>) and [Lemmy](<https://join-lemmy.org/instances>). Being open source, where features and  solutions do not already exist, anyone can contribute to creating them.
 
 For me, the fediverse, of which Mastodon and Lemmy are parts of, has proven to be much more inclusive and accessible than the big tech platforms I left...also much less commercial, angry, or jaded. It is proving to be a very welcome change and I may explore more of what the fediverse has to offer. For now tou can:
 

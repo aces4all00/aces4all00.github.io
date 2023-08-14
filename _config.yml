@@ -43,7 +43,7 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
-    giscus               :
+    giscus               : #
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
     category_id          : # Shown during giscus setup at https://giscus.app
@@ -158,6 +158,10 @@ include:
   - .htaccess
   - _pages
   - docs
+  - docs/assets
+  - docs/assets/images
+  - assets
+  - assets/images  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

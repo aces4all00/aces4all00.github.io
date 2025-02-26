@@ -1,6 +1,6 @@
 ---
 layout      : single
-title       : "Adventures in blogging"
+title       : "Sample PowerShell codeblock with output"
 subtitle    : "Reboot: part 1"
 date        : 2025-02-25 20:11 +0000
 categories  : 

@@ -22,17 +22,21 @@ locale: "en-US"
 rtl: false
 domain: "aces4all00.github.io"
 title: "Blind Intersection"
-title_separator: "-"
+title_separator: " | "
 subtitle: "brought to you by aces4all00"
 author:
-  name: The Blind SysAdmin
+  name: "The Blind SysAdmin"
+  bio: >-
+    IT Automator, Problem Solver, Solution Builder, and Advisor &mdash; 
+    that happens to be blind
+  location: "Roaming Cyberspace"
 description: >- 
   A personal blog featuring topics related to blindness, Life, work, 
   privacy, technology, and automation scripting using PowerShell 
   (and other languages)...among other things.
 baseurl: ""
 url: "https://aces4all00.github.io"
-repository: "https://github.com/aces4all00/aces4all00.github.io"
+repository: "aces4all00/aces4all00.github.io"
 github_username:  aces4all00
 words_per_minute: 200
 enable_copy_code_button: true
@@ -42,7 +46,12 @@ copyright_url: "https://github.com/aces4all00/aces4all00.github.io/blob/main/COP
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "dark" # "neon"
+
+lunr:
+  search_within_pages: true
+
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -72,5 +81,3 @@ exclude:
   - vendor/ruby/
   - .vscode/
   - .gitignore
-
-

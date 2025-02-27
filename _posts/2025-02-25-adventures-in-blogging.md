@@ -5,7 +5,6 @@ subtitle    : "Reboot: part 1"
 date        : 2025-02-25 20:11 +0000
 categories  : 
   - update
-  - blogging
 ---
 
 I had been considering redoing my blog for quite some time, even got started a few times, but never really finished. However, in all my tinkering, I seem to have managed to break it quite thoroughly.

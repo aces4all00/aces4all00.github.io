@@ -3,7 +3,8 @@ layout: single
 title: "About the reboot: Checklist"
 permalink: /about/reboot-checklist/
 categories:
-    - about
+    - reboot
+last_modified_at: 2025-02-27T04:26:33+0000
 ---
 
 Checklist of things to do for site reboot.
@@ -14,26 +15,26 @@ Checklist of things to do for site reboot.
 - [x] Stage removal of current site
 - [x] Pull and configure prerequisites for new site
 - [x] Sketch out basic plan for site
+- [X] Fill out basic site structure for posts
+- [X] Set ups drafts site structure for pages and posts
+- [X] Set up `note-to-self` site structure
+- [X] Author `note-to-self` draft
 
 ## Tomorrow
 
-- [ ] Fill out basic site structure for posts
 - [ ] Write first draft of main `about` page
-- [ ] Set ups drafts site structure for pages and posts
-- [ ] Set up `note-to-self` site structure
-- [ ] Author `note-to-self` draft
-
-## Before reboot
-
 - [ ] Set up site structure for `TIL`
 - [ ] Write first draft of `about-blindness` page
-- [ ] Write first draft of `about-me` page
-- [ ] Author 5 `note-to-self` and `TIL` drafts
-- [ ] Author 3 each `blindness`, `working`, and `automation-scripting` drafts
 - [ ] Write helper (automation) scripts for blog tasks
     - [ ] Publishing drafts
     - [ ] Verifying spelling and format
     - [ ] Validating front matter
+
+## Before reboot
+
+- [ ] Write first draft of `about-me` page
+- [ ] Author 5 `note-to-self` and `TIL` drafts
+- [ ] Author 3 each `blindness`, `working`, and `automation-scripting` drafts
 - [ ] Finalize site design, build, and workflow
 - [ ] Launch new site
 
